@@ -1,0 +1,27 @@
+---
+title: "Milestone 2"
+author: "Jack Fetsch"
+date: "2/14/2020"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## Link to My Repo 
+
+Those wishing to view the full repo for Milestone 2 can do so at <https://github.com/jackfetsch/milestone-2>.
+
+## First Analysis
+#### What Effect Does Media Mentions Have On 2020 Democratic Presidential Primary Polls and Betting? 
+#### (By Hoda Abdalla)
+
+In this project, Hoda takes the ongoing democratic presidential primary and seeks to bring a group of independent datasets together to see if there exists any relationship between the number of cable and online mentions of a candidate and their position in the race. Hoda takes two different approaches to analyze the position of candidates in the race, first, by looking at online betting markets, and second, through looking at polling. One pro of this project is that it is incredibly relevant to current events in America, as the race is still ongoing. Another pro of the project is the great job Hoda did of differentiating between a correlation and causal relationship between the mentions and positions in the race. In a project like this, it could be easy to come to the conclusion that more cable mentions and online mentions lead to a better position of a candidate in the race. However, Hoda only refers to the relationship as a correlational one. The project involved quite a lot of data collection as "coverage is measured by splitting daily news footage into 15-second clips and finding the clips that contain a mention of the candidates' first and last names." One potential con of this project is that Hoda gives equal weight to all polls they assemble. Hoda says they use "national polling from several credible polling agencies on the major candidates." However, when I looked at Hoda's polling data, it turns out they used polling data from 11/18 and 12/18 (meaning that the data was from before the first major candidate even entered the race). This is a bit problematic as the title of their project suggests that they are just analyzing data from while the primary was in swing but, in reality, much of the data used to determine changes in polling overtime was collected before the campaigns were launched. Additionally, even though they note they only use "credible" polls, they weight each poll the same. 538 has an interesting section on their website where they discuss how each polling firm should be treated differently. In their own models, they weight each poll differently. It would be interesting to see this project take the same approach.
+
+## Second Analysis
+#### International Students in the United States
+#### (By Amanda Su)
+
+This project focuses on understanding why international students pursue higher education in the United States, what they study, and how they get their funding. One pro of the project is that it uses data from a variety of sources so it can approach the topic from multiple angles (the three different ones being motivation, funding source, and field of study). Rather than just describing their objective on the homescreen of their project, Amanda opts to provide some historical context as to why
+
